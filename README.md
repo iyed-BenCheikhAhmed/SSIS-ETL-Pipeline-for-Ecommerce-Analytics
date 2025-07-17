@@ -4,17 +4,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2019+-CC2927?logo=microsoftsqlserver)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 📌 Table of Contents
-- [Project Overview](#-project-overview)
-- [Architecture Diagram](#-architecture-diagram)
-- [ETL Process Flow](#%EF%B8%8F-etl-process-flow)
-- [Database Schemas](#-database-schemas)
-- [Installation Guide](#-installation-guide)
-- [Configuration](#-configuration)
-- [Execution](#-execution)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
 ## 🌟 Project Overview
 A comprehensive **SQL Server Integration Services (SSIS)** solution that:
