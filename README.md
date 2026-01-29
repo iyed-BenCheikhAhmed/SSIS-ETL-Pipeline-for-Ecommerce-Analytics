@@ -1,4 +1,4 @@
-# 🚀 Ecommerce Data Warehouse ETL Pipeline with SSIS
+#  Ecommerce Data Warehouse ETL Pipeline with SSIS
 
 ![SSIS](https://img.shields.io/badge/Microsoft-SSIS-0078D4?logo=sqlserver&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2019+-CC2927?logo=microsoftsqlserver)
@@ -6,7 +6,7 @@
 
 
 
-## 🌟 Project Overview
+##  Project Overview
 A comprehensive **SQL Server Integration Services (SSIS)** solution that:
 1. Extracts data from operational ecommerce database (`EcommerceDB`)
 2. Transforms through staging area (`EcommerceStaging`)
